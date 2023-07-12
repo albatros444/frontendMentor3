@@ -1,0 +1,13 @@
+@import "globals";
+@import "footer";
+@import "rating/ratingState";
+@import "thankYou/thankYouState";
+
+section {
+  position: relative;
+  background-color: hsl(216, 12%, 8%);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
